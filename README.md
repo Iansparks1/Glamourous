@@ -1,4 +1,4 @@
-Glamourous — Fashion Ecommerce Platform
+## Glamourous — Fashion Ecommerce Platform
 A modern, responsive ecommerce website built with React and Vite, showcasing a curated collection of clothing and fashion items with a sleek user interface and engaging customer experience.
 
 ## Features
